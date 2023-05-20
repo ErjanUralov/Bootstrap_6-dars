@@ -1,0 +1,101 @@
+.card{
+    box-shadow: 3px 3px 2px 3px rgba(0,0,0,0.1);
+    padding: 1px;
+    height: 600px;
+}
+.card-header{
+    text-align: center;
+    color: white;
+    background-color: #d029ee;
+    position: relative;
+}
+tr{
+    margin-top: 10px;
+}
+span{
+    font-size: 20px;
+    margin-left: -15px;
+}
+.card-footer{
+    background-color: white;
+}
+h2{
+    margin-top: 20px;
+}
+.card-body{
+    text-align: center;
+}
+.four{
+    border-radius: 50px;
+    border: 1px solid transparent;
+    margin-bottom: 10px;
+}
+table{
+    text-align: center;
+}
+.tras{
+    transform: rotate(40deg);
+    background-color: #ffffff;
+    color: #0ee355;
+    width: 100px;
+    position: absolute;
+    top: 13px;
+    left: 169px;
+    font-size: 14px;
+}
+p{
+    font-size: 14px;
+}
+
+.card-header-cr{
+    background: rgb(84,84,226);
+    background: linear-gradient(90deg, rgba(84,84,226,1) 88%, rgba(204,217,219,1) 100%);
+    text-align: center;
+    color: #f1f1f1;
+    height: 120px;
+    padding-top: 20px;
+}
+.btn-1{
+   border: 2px solid rgb(84,84,226);
+    width: 200px;
+    font-size: 20px;
+    color: rgb(84,84,226);
+}
+.card-header-cr-3 {
+    background: rgb(223, 220, 42);
+    background: linear-gradient(90deg, rgba(223, 220, 42, 1) 19%, rgba(255, 13, 5, 1) 87%);
+    text-align: center;
+    color: #f1f1f1;
+    height: 120px;
+    padding-top: 20px;
+}
+.btn-2{
+    border: 2px solid orange;
+    width: 200px;
+    font-size: 20px;
+    color: orange;
+}
+.card-header-cr-1{
+    background: rgb(255,5,115);
+    background: linear-gradient(90deg, rgba(255,5,115,1) 31%, rgba(135,31,182,1) 83%);
+    text-align: center;
+    color: #f1f1f1;
+    height: 120px;
+    padding-top: 20px;
+}
+.btn-3{
+    border: 2px solid aqua;
+    width: 200px;
+    font-size: 20px;
+    color: aqua;
+}
+.btn-4{
+    border: 2px solid rgba(255,5,115,1) ;
+    width: 200px;
+    font-size: 20px;
+    color: aqua;
+    background: linear-gradient(90deg, rgba(255,5,115,1) 31%, rgba(135,31,182,1) 83%);
+}
+.card-footer-cr-1{
+    padding-top: 12px;
+}

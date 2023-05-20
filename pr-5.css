@@ -1,0 +1,53 @@
+.card{
+    border: 1px solid black;
+}
+.card-header{
+    background-color: #e54c4c;
+    color: white;
+    text-align: center;
+}
+.card-body{
+    text-align: center;
+}
+span{
+    font-size: 18px;
+}
+.list-group{
+    margin: 1px;
+    width: 250px;
+    border-radius: 8px;
+    background-color: white;
+    padding-top: 2px;
+}
+.card-footer{
+    background-color: #c8c5c5;
+    text-align: center;
+}
+.card-header-1{
+    background-color: #2964a9;
+    text-align: center;
+    height: 125px;
+    padding: 15px;
+    color: white;
+}
+.card-header-2{
+    background-color: #2da01c;
+    text-align: center;
+    height: 125px;
+    padding: 15px;
+    color: white;
+}
+.card-header-3{
+    background-color: #5f5d5d;
+    text-align: center;
+    height: 125px;
+    padding: 15px;
+    color: white;
+}
+.card-header-7{
+    background-color: #a4a1a1;
+    text-align: center;
+    height: 125px;
+    padding: 15px;
+    color: white;
+}
